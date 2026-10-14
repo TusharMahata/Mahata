@@ -38,5 +38,5 @@ It is a static file — any host works:
 
 - Strictly monochrome: black `#0a0a0a`, white, and greys — no accent colours
 - Two A4 pages: page 1 is header, profile and experience; page 2 is skills, machine-learning work and education
-- Type: **Inter** for text, **IBM Plex Mono** for labels, dates and tags
+- Deliberately plain: one typeface (**Inter**), hairline rules instead of boxes, badges or chips; hierarchy comes from weight, size and grey
 - Collapses to a single readable column on phones
